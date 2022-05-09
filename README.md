@@ -7,7 +7,7 @@
   <em>
   <h3>
     Portfolio at 
-    <a href="https://jongsungbae.github.io/portfolio/" target="blank">
+    <a href="https://jongsungbae.github.io/portfolio/" target="_blank">
       Jongsung's Portfolio
     </a>
   </h3>

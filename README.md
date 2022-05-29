@@ -22,5 +22,6 @@
 ![Python](https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=python)
 ![Selenium](https://img.shields.io/badge/-Selenium-222222?style=for-the-badge&logo=selenium)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-222222?style=for-the-badge&logo=bitbucket&logoColor=blue)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=for-the-badge&logo=jira)
 
